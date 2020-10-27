@@ -1,6 +1,6 @@
 {
-  "name": "ant-design-vue",
-  "version": "1.6.5",
+  "name": "ant-design-vue-mqj",
+  "version": "1.0.1",
   "title": "Ant Design Vue",
   "description": "An enterprise-class UI design language and Vue-based implementation",
   "keywords": [
@@ -46,11 +46,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vueComponent/ant-design-vue.git"
+    "url": "git+https://github.com/pzl1026/antd-design-vue-mqj.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vueComponent/ant-design-vue/issues"
+    "url": "https://github.com/pzl1026/antd-design-vue-mqj.git/issues"
   },
   "homepage": "https://www.antdv.com/",
   "peerDependencies": {
